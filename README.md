@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 You can reach me by:
 - ✒️ Telegram - @akif4ek
-- 🗝️ Discord - Akif#8421
